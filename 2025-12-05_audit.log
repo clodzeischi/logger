@@ -1,4 +1,0 @@
-2025-12-05T14:51:15.652115: alice from the app survey_app attempted to create item record_123, resulting in Code 200
-2025-12-05T14:52:29.765030: bob from the app survey_app attempted to get item record_123, resulting in Code 200
-2025-12-05T15:10:38.616387: alice from the app survey_app attempted to create item record_123, resulting in Code 200
-2025-12-05T15:10:38.618240: Received incomplete logging request. 
